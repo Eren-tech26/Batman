@@ -25,7 +25,7 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://thebiggestcomebackever:EREN
 
 API_URL = getenv("API_URL", 'https://api.thequickearn.xyz') #youtube song url
 VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.thequickearn.xyz')
-API_KEY = getenv("API_KEY","30DXNexGenBots107029")
+API_KEY = getenv( "API_KEY", "30DXNexGenBots107029" )
 
 DURATION_LIMIT_MIN = 500000
 
