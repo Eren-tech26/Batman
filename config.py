@@ -13,7 +13,7 @@ BOT_TOKEN = "8105511650:AAG2ZqcU5xyFcjGTnxqtDpnFpRgzfy9Ofys"
 
 BOT_ID = 8105511650
 
-BOT_USERNAME = "@eren_proBot"
+BOT_USERNAME = "@Batman_dmusicbot"
 
 OWNER_USERNAME = "@eren_aethonix"
 
