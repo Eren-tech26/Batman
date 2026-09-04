@@ -9,9 +9,9 @@ API_ID = 21968859
 
 API_HASH = "21a59d21687f01d448530ee88a26b1eb"
 
-BOT_TOKEN = "8105511650:AAG2ZqcU5xyFcjGTnxqtDpnFpRgzfy9Ofys"
+BOT_TOKEN = "7616480254:AAHlTXIbSTB_HzYC4zHsoPLgclSlIyL4l0w"
 
-BOT_ID = 8105511650
+BOT_ID = 7616480254
 
 BOT_USERNAME = "@Aethonixmusicbot"
 
@@ -21,7 +21,7 @@ BOT_NAME = "˹𝐀ᴇᴛʜᴏɴɪ𝐱 ꭙ 𝐌ᴜ𝐬ɪᴄ ˼™🎧"
 
 ASSUSERNAME = "@Eren_playz"
 
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://thebiggestcomebackever:EREN1234@cluster0.7q7ri.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://itsiconicyt_db_user:EREN123456@eren26.eaevtp2.mongodb.net/?appName=Eren26&retryWrites=true&w=majority")
 
 API_URL = getenv("API_URL", 'https://api.thequickearn.xyz') #youtube song url
 VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.thequickearn.xyz')
@@ -70,7 +70,7 @@ SONG_DOWNLOAD_DURATION_LIMIT = 9999999
 TG_AUDIO_FILESIZE_LIMIT = 2147483648
 TG_VIDEO_FILESIZE_LIMIT = 2147483648
 
-STRING1 = getenv("STRING1", "AQDcmVMAndkrPWsdVYtz1JHb0DhkcElTow0jionuiXR3hQpIjnfU6wiVuldZDXOqwzdBuXn6mewbI_578zR0LTdfmOqJ0WVaUKqkwITZXSb41vkMzv3k5iA16j_N4sIBVlK2xbXL8QJapTuqIHzSGVLyqUB9vj5zCkD3ir2j4e9y16eTzF8YMI9_jKyeEvPKO7JbfCMXq3GcUzGNz4Epev7xo3UVW6mG46UcS5P0h7eKzQYryAWKJBOIF4q8_1UgpaRwcLtPPf6pdBboCBfMf6x4PRvWs63tN1d0NH0BulEGeUA5qGs1pMf6ue0YqNkOxVFerBWonioTW4n98y-TnWULU47WuAAAAAGzshfkAA")
+STRING1 = getenv("STRING1", "BQFPN9sAxGVmkqq2onoCkBO5XWrtxGH3bUjpiS5DHOq79A8q5FGq1grXcxSVu8EJF29HJWD15qgqAU4B7FL2fkosIU0FxHCBcH2NT8SwXr3dvn4gNkbE_Uz3C1Gm2HORqdltQW7Zok3GWm5TPyozyHFhe6pUa24s0DX-U3E-wqbsVSk23-VX1uJZ8RKg3vZ436dsBnpXT90M4mHPoQMDYltXTySbvv-uanKKCEoTNAsch9Is_YG4itaV3lp3dGABCkCVuHM6ZO4ikhfMuNgc-V0rZb2KZ8fV-F6z9egITLbbdLLE7z7g6HBQ2Dp1Xg_4ut1XrR18dxfxsEw_yEAHOh-98787XgAAAAHYyfknAA")
 STRING2 = getenv("STRING2", None)
 STRING3 = getenv("STRING3", None)
 STRING4 = getenv("STRING4", None)
